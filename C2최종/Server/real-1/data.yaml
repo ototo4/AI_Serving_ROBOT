@@ -1,0 +1,12 @@
+names:
+- seat
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: real-jzpzd
+  url: https://universe.roboflow.com/project/real-jzpzd/dataset/1
+  version: 1
+  workspace: project
+test: ../test/images
+train: ../real-1/train/images
+val: ../real-1/valid/images

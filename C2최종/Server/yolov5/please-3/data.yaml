@@ -1,0 +1,12 @@
+names:
+- seat
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: please-aunlc
+  url: https://universe.roboflow.com/postech-ky0ej/please-aunlc/dataset/3
+  version: 3
+  workspace: postech-ky0ej
+test: ../test/images
+train: please-3/train/images
+val: please-3/valid/images
